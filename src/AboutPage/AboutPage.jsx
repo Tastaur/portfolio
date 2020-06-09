@@ -15,7 +15,7 @@ const AboutPage = (props)=>{
   <ul><b>Профессиональные навыки:</b>
     <li> HTML5, CSS3, JS;</li>
     <li> знание React (Redux, Thunk, Form, Bootstrap)/Ionic;</li>
-      <li> адаптивная и кросс-браузерной верстка;</li>
+      <li> адаптивная и кросс-браузерная верстка;</li>
         <li> опыт создания HTML-страницы сайта на основе дизайн-макетов;</li>
     <li> знание CMS WordPress</li>
   </ul>
