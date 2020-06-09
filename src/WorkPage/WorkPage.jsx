@@ -16,11 +16,11 @@ const WorkPage = (props) => {
         <img className={s.item} src={firstSlideMain} alt=''/>
 
         <Carousel.Caption>
-          <img
+          <a href='https://tastaur.github.io/IC_RepairDP_SobolevMA/'><img
               src={firstSlide}
               alt="First slide"
               className={s.workImg}
-          />
+          /></a>
           <h3>Сайт для вымышленной строительно фирмы</h3>
           <p>Использовались: HTML, CSS, JavaScript</p>
         </Carousel.Caption>
@@ -28,12 +28,12 @@ const WorkPage = (props) => {
       <Carousel.Item>
         <img className={s.item} src={secondSlideMain} alt=''/>
         <Carousel.Caption>
-          <img
+          <a href='https://tastaur.github.io/SocNet/#/profile'><img
               className={s.workImg}
               src={secondSlide}
               alt="Third slide"
 
-          />
+          /></a>
           <h3>Вымышленная социальная сеть</h3>
           <p>Использовались React, React-Redux, Redux-Form, Redux-Thunk</p>
 
@@ -47,11 +47,11 @@ const WorkPage = (props) => {
         />
 
         <Carousel.Caption>
-          <img
+          <a href='https://tastaur.github.io/paymantSystem/index.html'><img
               src={thirdSlide}
               className={s.workImg}
               alt="Third slide"
-          />
+          /></a>
           <h3>Лендинг платёжной системы</h3>
           <p>Использовались: HTML, CSS, JavaScript</p>
         </Carousel.Caption>
