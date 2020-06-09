@@ -69,8 +69,7 @@ position: absolute;
     }
 
     .subtitle {
-        font-family: Ubuntu;
-        line-height: 50px;
+        line-height: 30px;
         font-size: 18px;
     }
 }
