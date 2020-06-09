@@ -64,5 +64,13 @@ position: absolute;
         z-index: 99;
         position: relative;
     }
+    .title {
+       font-size: 36px;
+    }
 
+    .subtitle {
+        font-family: Ubuntu;
+        line-height: 50px;
+        font-size: 18px;
+    }
 }
