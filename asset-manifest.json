@@ -1,33 +1,38 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9a74a63d.chunk.css",
-    "main.js": "/portfolio/static/js/main.a4f35ab6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a4f35ab6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c14aeca1.chunk.css",
+    "main.js": "/portfolio/static/js/main.05d8e5f7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.05d8e5f7.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.24d195ed.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.24d195ed.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a3282f9c.chunk.js": "/portfolio/static/js/2.a3282f9c.chunk.js",
-    "static/js/2.a3282f9c.chunk.js.map": "/portfolio/static/js/2.a3282f9c.chunk.js.map",
+    "static/js/2.e3884718.chunk.js": "/portfolio/static/js/2.e3884718.chunk.js",
+    "static/js/2.e3884718.chunk.js.map": "/portfolio/static/js/2.e3884718.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e0594d7c1e2755e8e5997c8914702b95.js": "/portfolio/precache-manifest.e0594d7c1e2755e8e5997c8914702b95.js",
+    "precache-manifest.6d0462f6bc4757ac2e405d15b63873d0.js": "/portfolio/precache-manifest.6d0462f6bc4757ac2e405d15b63873d0.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.9a74a63d.chunk.css.map": "/portfolio/static/css/main.9a74a63d.chunk.css.map",
-    "static/js/2.a3282f9c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a3282f9c.chunk.js.LICENSE.txt",
+    "static/css/main.c14aeca1.chunk.css.map": "/portfolio/static/css/main.c14aeca1.chunk.css.map",
+    "static/js/2.e3884718.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e3884718.chunk.js.LICENSE.txt",
     "static/media/1.png": "/portfolio/static/media/1.31d41d95.png",
     "static/media/2.png": "/portfolio/static/media/2.d8dc501c.png",
     "static/media/3.png": "/portfolio/static/media/3.99bde39b.png",
     "static/media/LPLx1R9fl4Q.jpg": "/portfolio/static/media/LPLx1R9fl4Q.696f29d3.jpg",
     "static/media/bright-daylight-environment-forest-240040.jpg": "/portfolio/static/media/bright-daylight-environment-forest-240040.cf3b1ee3.jpg",
+    "static/media/call.png": "/portfolio/static/media/call.5b440c14.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.aef9c7e7.png",
     "static/media/forest-covered-in-white-fog-1423600.jpg": "/portfolio/static/media/forest-covered-in-white-fog-1423600.dc442f4f.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.1b9b9f71.png",
     "static/media/gray-bridge-and-trees-814499.jpg": "/portfolio/static/media/gray-bridge-and-trees-814499.1421e576.jpg",
-    "static/media/nature-forest-trees-park-38136.jpg": "/portfolio/static/media/nature-forest-trees-park-38136.bbabf1fc.jpg"
+    "static/media/nature-forest-trees-park-38136.jpg": "/portfolio/static/media/nature-forest-trees-park-38136.bbabf1fc.jpg",
+    "static/media/telegram.png": "/portfolio/static/media/telegram.817d585a.png",
+    "static/media/twitter.png": "/portfolio/static/media/twitter.f4ab5cc1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24d195ed.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a3282f9c.chunk.js",
-    "static/css/main.9a74a63d.chunk.css",
-    "static/js/main.a4f35ab6.chunk.js"
+    "static/js/2.e3884718.chunk.js",
+    "static/css/main.c14aeca1.chunk.css",
+    "static/js/main.05d8e5f7.chunk.js"
   ]
 }

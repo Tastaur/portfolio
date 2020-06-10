@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "584842ed5c46a09c8b437d7dde8972dd",
+    "revision": "4178d9f49c1795d86cde461dfdd364dc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "db597feca601bc0f0ccd",
+    "revision": "6913c366781aaa7ae275",
     "url": "/portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4fac38a0e6b0e61c27bc",
-    "url": "/portfolio/static/css/main.9a74a63d.chunk.css"
+    "revision": "e2d0923d84dd0bd7d8d0",
+    "url": "/portfolio/static/css/main.c14aeca1.chunk.css"
   },
   {
-    "revision": "db597feca601bc0f0ccd",
-    "url": "/portfolio/static/js/2.a3282f9c.chunk.js"
+    "revision": "6913c366781aaa7ae275",
+    "url": "/portfolio/static/js/2.e3884718.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/portfolio/static/js/2.a3282f9c.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.e3884718.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fac38a0e6b0e61c27bc",
-    "url": "/portfolio/static/js/main.a4f35ab6.chunk.js"
+    "revision": "e2d0923d84dd0bd7d8d0",
+    "url": "/portfolio/static/js/main.05d8e5f7.chunk.js"
   },
   {
     "revision": "0c18a05f1fb6137df5ad",
@@ -48,8 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/bright-daylight-environment-forest-240040.cf3b1ee3.jpg"
   },
   {
+    "revision": "5b440c14d989000af2276308359709c1",
+    "url": "/portfolio/static/media/call.5b440c14.png"
+  },
+  {
+    "revision": "aef9c7e74703ed2cf3e5b29ce83a33bc",
+    "url": "/portfolio/static/media/facebook.aef9c7e7.png"
+  },
+  {
     "revision": "dc442f4fafeca60ee087d088db68cbc7",
     "url": "/portfolio/static/media/forest-covered-in-white-fog-1423600.dc442f4f.jpg"
+  },
+  {
+    "revision": "1b9b9f71269e504156ce9d89a00f2551",
+    "url": "/portfolio/static/media/github.1b9b9f71.png"
   },
   {
     "revision": "1421e57668d726144c92a0d0c35687fe",
@@ -58,5 +70,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bbabf1fc92ef1cff55d4dc727297a4fd",
     "url": "/portfolio/static/media/nature-forest-trees-park-38136.bbabf1fc.jpg"
+  },
+  {
+    "revision": "817d585a7dd0775dbc9b41927bd043ca",
+    "url": "/portfolio/static/media/telegram.817d585a.png"
+  },
+  {
+    "revision": "f4ab5cc172d0912ac76f48d55e67a035",
+    "url": "/portfolio/static/media/twitter.f4ab5cc1.png"
   }
 ]);
