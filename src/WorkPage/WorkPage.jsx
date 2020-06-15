@@ -4,6 +4,7 @@ import Carousel from 'react-bootstrap/Carousel'
 import firstSlide from './1.png'
 import secondSlide from './2.png'
 import thirdSlide from './3.png'
+import fourthSlide from './4.png'
 import firstSlideMain from './nature-forest-trees-park-38136.jpg'
 import secondSlideMain from './gray-bridge-and-trees-814499.jpg'
 import thirdSlideMain from './bright-daylight-environment-forest-240040.jpg'
@@ -56,6 +57,24 @@ const WorkPage = (props) => {
           <p>Использовались: HTML, CSS, JavaScript</p>
         </Carousel.Caption>
       </Carousel.Item>
+      <Carousel.Item>
+        <img
+            className={s.item}
+            src={secondSlideMain}
+            alt="Third slide"
+        />
+
+        <Carousel.Caption>
+          <a href='https://tastaur.github.io/testAAA/'><img
+              src={fourthSlide}
+              className={s.workImg}
+              alt="Third slide"
+          /></a>
+          <h3>Небольшое тестовое задание</h3>
+          <p>Использовались: React, Redux, React-Bootstrap</p>
+        </Carousel.Caption>
+      </Carousel.Item>
+
     </Carousel>
   </div>
 }
