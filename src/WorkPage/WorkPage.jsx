@@ -5,9 +5,10 @@ import firstSlide from './1.png'
 import secondSlide from './2.png'
 import thirdSlide from './3.png'
 import fourthSlide from './4.png'
-import firstSlideMain from './nature-forest-trees-park-38136.jpg'
-import secondSlideMain from './gray-bridge-and-trees-814499.jpg'
-import thirdSlideMain from './bright-daylight-environment-forest-240040.jpg'
+import firstSlideMain from '../photo/1.jpg'
+import secondSlideMain from '../photo/2.jpg'
+import thirdSlideMain from '../photo/3.jpg'
+import fourthSlideMain from '../photo/4.jpg'
 import s from './WorkPage.module.css'
 
 const WorkPage = (props) => {
@@ -60,7 +61,7 @@ const WorkPage = (props) => {
       <Carousel.Item>
         <img
             className={s.item}
-            src={secondSlideMain}
+            src={fourthSlideMain}
             alt="Third slide"
         />
 

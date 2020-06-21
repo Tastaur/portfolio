@@ -1,6 +1,8 @@
 import React from 'react'
 import s from './MeetSection.module.css'
-import mainPic from './forest-covered-in-white-fog-1423600.jpg'
+import mainPic from '../photo/1.jpg'
+import {Fade} from 'react-reveal'
+
 
 const MeetSection = (props)=>{
   return <section id={'home'} className={s.home}>
@@ -9,9 +11,9 @@ const MeetSection = (props)=>{
         <div className={s.background}></div>
       </div>
     <div className={s.titleContainer}>
-      <h1 className={s.title}> Привет, меня зовут Марк!</h1>
+      <Fade bottom><h1 className={s.title}> Привет, меня зовут Марк!</h1>
       <h3 className={s.subtitle}>Я начинающий Frontend-developer
-      <br/>На данной странице я расскажу немного о себе</h3>
+      <br/>На данной странице я расскажу немного о себе</h3></Fade>
       <button  className={s.button}><a href={'mailto:trrrrex93@gmail.com'}>Написать на почту</a></button>
     </div>
   </section>
