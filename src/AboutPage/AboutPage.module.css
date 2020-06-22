@@ -42,10 +42,14 @@
 
     }
     .leftSection{
-        margin-top: 480px;
+        margin-top: 600px;
+        padding-right: 5px;
+        width: 345px;
+        margin-left: -10px;
     }
     .rightSection{
-        margin-top: 260px;
+        margin-top: 270px;
+        margin-bottom: 100px;
     }
 
 }

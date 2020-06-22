@@ -13,7 +13,7 @@ const App=()=> {
       <div className="App">
         <Header/>
         <div className="wrapper">
-          <BackTop/>
+          <BackTop className='toTop'/>
         <MeetSection/>
         <AboutPage/>
         <WorkPage/>
