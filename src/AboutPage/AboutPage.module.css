@@ -25,7 +25,8 @@
 }
 @media(max-width: 1000px) {
        .img{
-        height: 300px;
+           height: 200px;
+           margin-bottom: 38px;
     }
     .leftSection{
         height: 500px;
@@ -42,14 +43,14 @@
 
     }
     .leftSection{
-        margin-top: 600px;
+        margin-top: 750px;
         padding-right: 5px;
-        width: 345px;
+        width: 330px;
         margin-left: -10px;
     }
     .rightSection{
-        margin-top: 270px;
-        margin-bottom: 100px;
+        margin-top: 324px;
+        margin-bottom: 190px;
     }
 
 }
