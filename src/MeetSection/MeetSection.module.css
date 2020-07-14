@@ -31,15 +31,14 @@ position: absolute;
 }
 
 .title {
-    font-family: TeamViewer14;
-    font-style: italic;
+    font-family: "Fira Sans";
     margin-bottom: 40px;
     color: #ffffff;
 
 }
 
 .subtitle {
-    font-family: Ubuntu;
+    font-family: "Fira Sans";
     line-height: 50px;
     color: #ffffff;
 
@@ -58,7 +57,7 @@ position: absolute;
 .button > a {
     color: #ffac2f;
     font-size: 20px;
-    font-family: Helvetica Neue;
+    font-family: "Fira Sans";
     font-weight: initial;
     font-style: normal;
     text-decoration: none;

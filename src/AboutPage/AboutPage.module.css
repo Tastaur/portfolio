@@ -6,12 +6,17 @@
     justify-content: space-evenly;
     width: 100%;
     padding-top: 30px;
+    font-family: "Fira Sans";
 }
 .leftSection{
     padding: 30px;
+    font-family: "Fira Sans";
+
 }
 .leftSection .subtitle{
     font-size: 14px;
+    font-family: "Fira Sans";
+
 }
 .leftSection li{
     font-size: 14px;

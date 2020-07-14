@@ -13,12 +13,8 @@ const Header = (props)=>{
         <Nav className="mr-auto">
           <Nav.Link href="#about">About me</Nav.Link>
           <Nav.Link href="#work">My Work</Nav.Link>
-          <NavDropdown title="Contact" id="basic-nav-dropdown">
-            <NavDropdown.Item href="https://github.com/Tastaur/">GitHub</NavDropdown.Item>
-            <NavDropdown.Item href="https://facebook.com/lth.tastaur.1/">Facebook</NavDropdown.Item>
-            <NavDropdown.Item href="https://vk.com/tastaur">VK</NavDropdown.Item>
-            <NavDropdown.Item href="https://twitter.com/Tastaur_Rex/">Twitter</NavDropdown.Item>
-          </NavDropdown>
+          <Nav.Link href="#footer">Contact</Nav.Link>
+
         </Nav>
       </Navbar.Collapse>
     </Navbar>
